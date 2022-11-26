@@ -1,3 +1,14 @@
+# Jarkom-Modul-3-ITA05-2022
+
+---
+
+| Nama                            |    NRP     |
+| ------------------------------- | :--------: |
+| Muhammad Hanif Fatihurrizqi     | 5027201068 |
+| Abadila Barasmara Bias Dewandra | 5027201052 |
+| Fadly Rachman Drajad Juliantono | 5027201038 |
+
+
 - VLSM pada Cisco Packet Tracer
 
 1. Pembuatan Topologi
@@ -63,3 +74,10 @@
 | A7     | 270       | /23     | 10.42.4.0   | 10.42.4.1 - 10.42.5.254   | 10.42.5.255  |
 | A16    | 500       | /23     | 10.42.6.0   | 10.42.6.1 - 10.42.7.254   | 10.42.7.255  |
 | A1     | 1000      | /22     | 10.42.8.0   | 10.42.8.1 - 10.42.11.254  | 10.42.11.255 |
+
+- CIDR pada GNS3
+
+1. Pembuatan Topologi
+
+![](https://lh4.googleusercontent.com/6nr4MfG6kntSsNfuj9NzsqRnQQOGuHsT739jcCrp9Wg7OWM-X0XntdPJY5IAiEB2yy3nHCOQmT7pNroqih4AE-SqkAB6stQoxjAsYgYnf-sH-OdmXM0kZi8QvWPg8FKo4AbDsgnGuaGVFZU49RiwE681P454e_j9zflvy3eS9gitz7acXq8FYmE9_UZhag)
+
